@@ -1,4 +1,4 @@
-[![image](https://avatars.mds.yandex.net/i?id=bcf6db14ce1c2655446053986d44af1b_sr-6424941-images-thumbs&n=13)](https://www.python.org/doc/) [![image](https://i.pinimg.com/236x/80/11/d6/8011d607cd1d7c2acc4b8c50e77f1c47.jpg?nii=t)](https://scrapy.org/)
+[![image](https://avatars.mds.yandex.net/i?id=bcf6db14ce1c2655446053986d44af1b_sr-6424941-images-thumbs&n=13)](https://www.python.org/doc/) [![image](https://api.nuget.org/v3-flatcontainer/scarpyrt.client/1.0.0/icon)](https://scrapy.org/)
 
 
 # fix-price-parser
