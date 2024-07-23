@@ -1,4 +1,4 @@
-[![image](https://avatars.mds.yandex.net/i?id=bcf6db14ce1c2655446053986d44af1b_sr-6424941-images-thumbs&n=13)](https://www.python.org/doc/) [![image](https://api.nuget.org/v3-flatcontainer/scarpyrt.client/1.0.0/icon)](https://scrapy.org/)
+[![image](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/doc/) [![image](https://fixthephoto.baixarturbo.net/blog/images/uikit_slider_set/screpy-logo_1613054258.png)](https://scrapy.org/)
 
 
 # fix-price-parser
@@ -48,10 +48,10 @@
 ```
 
 ## Инструкция по запуску парсера
-
-* Клонировать репозиторий
+* Сделать Fork - (https://github.com/Lif-a-nova/fix-price-parser)
+* Клонировать свой репозиторий
 ```
-git clone git@github.com:Lif-a-nova/fix-price-parser.git
+git clone git@github.com:....
 ```
 * Установить и активировать окружение
 ```
