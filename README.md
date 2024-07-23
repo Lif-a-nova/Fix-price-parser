@@ -1,6 +1,4 @@
-[![image](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/doc/)
-
-[![image](https://i.pinimg.com/236x/80/11/d6/8011d607cd1d7c2acc4b8c50e77f1c47.jpg?nii=t)](https://scrapy.org/)
+[![image](https://avatars.mds.yandex.net/i?id=471ae7c53e6a31ba02a694ac5991945d_sr-8497113-images-thumbs&n=13)](https://www.python.org/doc/) [![image](https://i.pinimg.com/236x/80/11/d6/8011d607cd1d7c2acc4b8c50e77f1c47.jpg?nii=t)](https://scrapy.org/)
 
 
 # fix-price-parser
@@ -9,6 +7,7 @@
 - использовано подключение через proxy (scrapy-rotating-proxies)
 - на вход подается список категорий - 3 категории, с количеством товаров от 70 штук на каждую
 - информация о товарах представляется в виде словарей и сохраняется в файл с расширением .json
+(парссер разделен на несколько паучков с учетом доработки)
 
 ### Формат выходных данных для одного товара:
 ```
