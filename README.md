@@ -1,4 +1,6 @@
 [![image](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/doc/) [![image](https://i2.wp.com/miro.medium.com/1*V7b3rjqIpiF1fWZd4RH0aQ.jpeg)](https://scrapy.org/)
+[![image](https://fixthephoto.baixarturbo.net/blog/images/uikit_slider_set/screpy-logo_1613054258.png)](https://scrapy.org/)
+
 
 
 # fix-price-parser
