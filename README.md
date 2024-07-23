@@ -1,6 +1,6 @@
 [![image](https://i2.wp.com/miro.medium.com/1*V7b3rjqIpiF1fWZd4RH0aQ.jpeg)](https://scrapy.org/) [![image](https://www.vectorlogo.zone/logos/python/python-official.svg)](https://www.python.org/doc/) 
 
-# fix-price-parser
+# Fix-price-parser
 Парсер для получения информации о товарах по категориям из интернет-магазина "fix-price.com".
 - реализовано с помощью фреймворка Scrapy
 - использовано подключение через proxy (scrapy-rotating-proxies)
