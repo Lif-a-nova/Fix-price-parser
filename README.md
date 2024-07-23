@@ -1,4 +1,4 @@
-[![image](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/doc/) [![image](https://i2.wp.com/miro.medium.com/1*V7b3rjqIpiF1fWZd4RH0aQ.jpeg)](https://scrapy.org/)
+[![image](https://avatars.mds.yandex.net/i?id=bcf6db14ce1c2655446053986d44af1b_sr-6424941-images-thumbs&n=13)](https://www.python.org/doc/) [![image](https://i2.wp.com/miro.medium.com/1*V7b3rjqIpiF1fWZd4RH0aQ.jpeg)](https://scrapy.org/)
 
 
 # fix-price-parser
