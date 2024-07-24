@@ -22,6 +22,9 @@ ROBOTSTXT_OBEY = False
 # можно убрать в файл .txt
 ROTATING_PROXY_LIST = [
     '95.174.127.48:3128',
+    '87.103.199.142:45966',
+    '82.179.94.11:3128',
+    '195.62.32.117:22331',
 ]
 
 DOWNLOADER_MIDDLEWARES = {
